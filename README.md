@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Neri</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tato1599" alt="tato1599" /></a> </p>
 
 - 🌱 I’m currently learning **Livewire 3**
 
