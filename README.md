@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Passionate fullstack developer · Currently learning <strong>Livewire 3</strong> · Based in Mexico 🌮</em>
+  <em>Passionate fullstack developer · Currently learning <strong>Livewire 4</strong> · Based in Mexico 🌮</em>
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ### 🧑‍💻 About Me
 
 - 💼 Currently working at **[Terabytio](https://terabytio.com)**
-- 🌱 Leveling up with **Livewire 4**
 - ⚡ I love building clean, scalable web apps — from backend APIs to polished UIs
 
 ---
